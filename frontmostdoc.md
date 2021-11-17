@@ -1,11 +1,11 @@
-# Alfred-Workflow-frontmostdoc
+# Alfred-Workflow frontmostdoc
 Alfred-Workflow: Show frontmost document's file of frontmost application in Alfred File Action
 
 I build this Workflow to launch Alfred File Action by keyword or keyboard shortcut. This is lot faster than hovering the mouse to the top of a window and do ctrl-click the proxy icon.
 
 ## Installation
 
-Open file frontmostdoc.alfredworkflow with [Alfred 4.+](https://www.alfredapp.com)
+Download file frontmostdoc.alfredworkflow and open it with [Alfred 4.+](https://www.alfredapp.com)
 
 ## Description
 
