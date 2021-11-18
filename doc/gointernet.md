@@ -1,6 +1,9 @@
 # gointernet: Safari tabgroups implemented as workflow
 
-This workflow let you open group of URLs in Tabs in new Safari window
+This workflow let you open group of URLs in Tabs in new Safari window.
+
+![Start workflow](https://user-images.githubusercontent.com/55148527/142421149-ee53af37-d9de-4d43-922a-05d9efbdff42.png)
+
 
 ## Tab Group Files
 Each group is represented by a tab group file, a txt-file with the urls in separate lines. Line which starts with # or > is used as title of the group: 
@@ -19,7 +22,10 @@ The txt-files are searched
 
 The tab group files are simple txt-files and are editable with any text editor.
 
-You can generate a tab group file by opening some tabs in a Safari window, start this workflow and select the predefined entry Configure.   
+You can generate a tab group file by opening some tabs in a Safari window, start this workflow and select the predefined entry Configure.
+
+![Config menu](https://user-images.githubusercontent.com/55148527/142421251-1ad6ec40-25fa-47d1-971e-edd9289f16f4.png)
+
 
 ### Sample tab group file:
 ````
@@ -31,7 +37,7 @@ this line is ignored, because it does not start with http
 
 
 ## Installation
-[Go here and hit Download](gointernet.alfredworkflow), then open the file at your mac to install.
+[Go here and hit Download](../gointernet.alfredworkflow), then open the file at your mac to install.
 Then set URLDIR to a suitable directory.
 
 The Applescript in this workflow uses keystroke from System Events to start a new window in Safari.
