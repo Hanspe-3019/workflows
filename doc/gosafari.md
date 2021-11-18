@@ -1,4 +1,4 @@
-# gointernet: Safari tabgroups implemented as workflow
+# gosafari: Safari tabgroups implemented as workflow
 
 This workflow let you open group of URLs in Tabs in new Safari window
 
