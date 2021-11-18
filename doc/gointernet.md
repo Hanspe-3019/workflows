@@ -11,3 +11,6 @@ Other lines not starting with 'http' are ignored.
 The txt-files are searched 
  1. in URLDIR (relative to $HOME or absolute path)
  2. in Workflow-dir 
+
+## Installation
+[Go here and hit Download](gointernet.alfredworkflow), then open the file at your mac to install.
