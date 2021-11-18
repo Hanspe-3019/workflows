@@ -7,6 +7,8 @@ This is a collection of my public Alfred Workflows.
 
 ## The Workflows
 
- - **frontmostdoc** : Show frontmost document's file of frontmost application in Alfred File Action.
-I build this Workflow to launch Alfred File Action by keyword or keyboard shortcut. This is lot faster than hovering the mouse to the top of a window and do ctrl-click the proxy icon. [See more…](frontmostdoc.md)
- - **unmountDisk** : Alfred workflow to help ejecting devices with multiple volumes. [See more…](unmountDisk.md)
+ - **frontmostdoc** : Display frontmost document's file of frontmost application in Alfred File Action. [See more…](doc/frontmostdoc.md)
+ - **unmountDisk** : Alfred workflow to help ejecting devices with multiple volumes. [See more…](doc/unmountDisk.md)
+
+## Installation
+After download of alfredworkflow-file open it with fearless doubleclick. Alfred will open it and ask to install it.
