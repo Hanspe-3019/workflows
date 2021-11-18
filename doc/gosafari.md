@@ -37,7 +37,7 @@ this line is ignored, because it does not start with http
 
 
 ## Installation
-[Go here and hit Download](../gointernet.alfredworkflow), then open the file at your mac to install.
+[Go here and hit Download](../gosafari.alfredworkflow), then open the file at your mac to install.
 Then set URLDIR to a suitable directory.
 
 The Applescript in this workflow uses keystroke from System Events to start a new window in Safari.
