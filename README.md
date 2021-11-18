@@ -2,13 +2,16 @@
 This is a collection of my public Alfred Workflows.
 
 ## Requirements: 
- - macOs with [Alfred 4.+](https://www.alfredapp.com)
- - Some of them use Python3
+ - macOS with [Alfred 4.+](https://www.alfredapp.com)
 
 ## The Workflows
 
  - **frontmostdoc** : Display frontmost document's file of frontmost application in Alfred File Action. [See more…](doc/frontmostdoc.md)
  - **unmountDisk** : Alfred workflow to help ejecting devices with multiple volumes. [See more…](doc/unmountDisk.md)
+ - **gointernet**: Open group of URLs in Tabs in new Safari window. [See more…](doc/gointernet.md)
+ - **TMUX**: Attach to or create TMUX session. [See more…](doc/TMUX.md)
+
+
 
 ## Installation
-After download of alfredworkflow-file open it with fearless doubleclick. Alfred will open it and ask to install it.
+After download of `file'.alfredworkflow it with fearless doubleclick. Alfred will open it and ask to install it.
