@@ -11,8 +11,11 @@ This is a collection of my public Alfred Workflows.
  - **gosafari**: Open group of URLs in Tabs in new Safari window. [See more…](doc/gosafari.md)
  - **TMUX**: Attach to or create TMUX session. [See more…](doc/TMUX.md)
  - **vimtool**: Attach vim in Terminal as File Action or Universal action. [See more…](doc/vimtool.md)
+ - **createfile**: File Action to create file of given type using one template per file type.[See more…](doc/createfile.md)
+ - **createfolder**: File Action to create folder.
+ - **alarmclock**: File Action to create alarm at given time or in given minutes, seconds or hours.[See more…](doc/alarmclock.md)
 
 
 
 ## Installation
-After download of `file'.alfredworkflow it with fearless doubleclick. Alfred will open it and ask to install it.
+After download of `file'.alfredworkflow do a fearless doubleclick. Alfred will open it and ask to install it.
