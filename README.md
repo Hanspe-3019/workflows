@@ -6,7 +6,7 @@ This is a collection of my public Alfred Workflows.
  - Some workflows use python3 scripts, so they require macOS Version 10+ or separately installed python3 (anaconda, homebrew, macports).  
 
 ## The Workflows
-<table><caption><small>Generated at 2021-11-22</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
+<table><caption><small>Generated at 2021-11-25</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
 <tr>
 <td><img src="./doc/alarmclock.png" width="128">
 <td><strong>alarmclock</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;alarmclock using launchd<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/alarmclock.md">Read more...</a>
@@ -30,8 +30,8 @@ This is a collection of my public Alfred Workflows.
 <tr>
 <td><img src="./doc/gosafari.png" width="128">
 <td><strong>gosafari</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;open list of tabs<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/gosafari.md">Read more...</a>
-<td>1.1.1
-<td>action.browseinalfred : 1<br>action.script : 2<br>input.keyword : 1<br>input.listfilter : 1<br>input.scriptfilter : 1<br>output.callexternaltrigger : 2<br>output.writefile : 1<br>trigger.external : 2<br>utility.argument : 1<br>utility.conditional : 2
+<td>1.2.0
+<td>action.browseinalfred : 1<br>action.script : 2<br>input.keyword : 1<br>input.listfilter : 1<br>input.scriptfilter : 2<br>output.callexternaltrigger : 3<br>output.writefile : 1<br>trigger.external : 3<br>utility.argument : 3<br>utility.conditional : 1
 <tr>
 <td><img src="./doc/TMUX.png" width="128">
 <td><strong>TMUX</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Attach to TMUX<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/TMUX.md">Read more...</a>
