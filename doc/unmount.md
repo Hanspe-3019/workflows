@@ -28,7 +28,11 @@ If no icon file exits, a default icon 💾 will be used. If there are mutliple p
  - MacOs
  - [Alfred](https://www.alfredapp.com) 4.+
 
-Workflow is implemented in Python and uses /usr/bin/python, that is python 2.7 ☹️
+Workflow is implemented in Python and provides two versions:
+
+ - Recommended and default: /usr/bin/python3, that is python 3.x
+ - /usr/bin/python, that is python 2.7. Use it, if python3 is not available on your mac. ☹️
+
 ## Installation
 
 Open file __unmount.alfredworkflow__ with Alfred from Finder.

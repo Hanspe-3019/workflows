@@ -15,16 +15,11 @@ Other lines not starting with 'http' are ignored.
 
 If the tab group file does not contain any url, a new empty safari window will be created.
  
-The txt-files are searched 
-
-1. in URLDIR (relative to $HOME or absolute path). You create your own tab group.
-2. in Workflow-dir (contains sample file group "Visit Alfred") 
+The txt-files are searched in URLDIR (relative to  your HOME directory or absolute path). There you create your own tab groups.
 
 The tab group files are simple txt-files and are editable with any text editor.
 
-You can generate a tab group file by opening some tabs in a Safari window, start this workflow and select the predefined entry Configure.
-
-![Config menu](https://user-images.githubusercontent.com/55148527/142421251-1ad6ec40-25fa-47d1-971e-edd9289f16f4.png)
+You can generate a tab group file by opening some tabs in a Safari window, start this workflow and select any entry with modifier ⌘.
 
 
 ### Sample tab group file:
