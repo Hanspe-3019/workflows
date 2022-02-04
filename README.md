@@ -6,7 +6,7 @@ This is a collection of my public Alfred Workflows.
  - Some workflows use python3 scripts, so they require macOS Version 10+ or separately installed python3 (anaconda, homebrew, macports).  
 
 ## The Workflows
-<table><caption><small>Generated at 2022-02-03</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
+<table><caption><small>Generated at 2022-02-04</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
 <tr>
 <td><img src="./doc/alarmclock.png" width="128">
 <td><strong>alarmclock</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;alarmclock using launchd<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/alarmclock.md">Read more...</a>
@@ -40,7 +40,7 @@ This is a collection of my public Alfred Workflows.
 <tr>
 <td><img src="./doc/unmount.png" width="128">
 <td><strong>unmount</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;unmount<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/unmount.md">Read more...</a>
-<td>1.1.0
+<td>1.1.1
 <td>action.script : 3<br>input.scriptfilter : 2<br>output.largetype : 1<br>output.notification : 1
 <tr>
 <td><img src="./doc/vimtool.png" width="128">
