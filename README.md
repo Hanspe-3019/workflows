@@ -6,7 +6,7 @@ This is a collection of my public Alfred Workflows.
  - Some workflows use python3 scripts, so they require macOS Version 10+ or separately installed python3 (anaconda, homebrew, macports).  
 
 ## The Workflows
-<table><caption><small>Generated at 2022-02-04</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
+<table><caption><small>Generated at 2022-03-02</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
 <tr>
 <td><img src="./doc/alarmclock.png" width="128">
 <td><strong>alarmclock</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;alarmclock using launchd<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/alarmclock.md">Read more...</a>
@@ -23,6 +23,11 @@ This is a collection of my public Alfred Workflows.
 <td>1.1.2
 <td>action.browseinalfred : 1<br>action.script : 2<br>input.keyword : 1<br>output.notification : 1<br>trigger.action : 2<br>utility.argument : 1
 <tr>
+<td><img src="./doc/fileref.png" width="128">
+<td><strong>fileref</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Generate/Follow File Reference
+<td>0.0.9
+<td>action.actioninalfred : 1<br>action.script : 2<br>trigger.action : 1<br>trigger.external : 1
+<tr>
 <td><img src="./doc/frontmostdoc.png" width="128">
 <td><strong>frontmostdoc</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Show frontmost document's file of frontmost application<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/frontmostdoc.md">Read more...</a>
 <td>1.0.2
@@ -30,7 +35,7 @@ This is a collection of my public Alfred Workflows.
 <tr>
 <td><img src="./doc/gosafari.png" width="128">
 <td><strong>gosafari</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;open list of tabs<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/gosafari.md">Read more...</a>
-<td>1.3.2
+<td>1.4.0
 <td>action.browseinalfred : 1<br>action.script : 2<br>input.keyword : 1<br>input.listfilter : 1<br>input.scriptfilter : 2<br>output.callexternaltrigger : 5<br>output.writefile : 1<br>trigger.external : 5<br>trigger.hotkey : 1<br>utility.argument : 3<br>utility.conditional : 2
 <tr>
 <td><img src="./doc/TMUX.png" width="128">
