@@ -15,8 +15,6 @@ Download file frontmostdoc.alfredworkflow and open it with [Alfred 4.+](https://
 
 <img width="714" alt="Screenshot" src="https://user-images.githubusercontent.com/55148527/124922579-ea8ea600-dff9-11eb-8772-5e0802aa11ba.png">
 
-In "run script" Apple Script queries the application for the path to the active document window.
-Having gotten the path finally "Action in Alfred" for it is scheduled.
 
 In order to work, the active application must
 - be scriptable
@@ -27,3 +25,5 @@ In order to work, the active application must
 If anything goes wrong, e.g. active App is Affinity Photo (not scriptable) or Safari (not document based), this workflow plays a sound.
 
 It works with Preview, BBEdit, Quicktime Player, Pages, OmniGraffle, OmniOutliner…
+
+V1.2.0: Added support for Obsidian, which is not scriptable with applescript.
