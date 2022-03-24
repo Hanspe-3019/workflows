@@ -6,7 +6,7 @@ This is a collection of my public Alfred Workflows.
  - Some workflows use python3 scripts, so they require macOS Version 10+ or separately installed python3 (anaconda, homebrew, macports).  
 
 ## The Workflows
-<table><caption><small>Generated at 2022-03-19</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
+<table><caption><small>Generated at 2022-03-24</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
 <tr>
 <td><img src="./doc/alarmclock.png" width="128">
 <td><strong>alarmclock</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;alarmclock using launchd<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/alarmclock.md">Read more...</a>
@@ -30,8 +30,8 @@ This is a collection of my public Alfred Workflows.
 <tr>
 <td><img src="./doc/frontmostdoc.png" width="128">
 <td><strong>frontmostdoc</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Show frontmost document's file of frontmost application<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/frontmostdoc.md">Read more...</a>
-<td>1.2.0
-<td>action.actioninalfred : 1<br>action.script : 1<br>output.playsound : 1<br>trigger.hotkey : 1<br>utility.conditional : 1
+<td>1.2.1
+<td>action.actioninalfred : 1<br>action.script : 2<br>input.keyword : 1<br>output.playsound : 1<br>trigger.hotkey : 1<br>utility.argument : 1<br>utility.conditional : 1<br>utility.transform : 1
 <tr>
 <td><img src="./doc/Going with alt.png" width="128">
 <td><strong>Going with alt</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Safari alt-hot keys

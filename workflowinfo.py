@@ -69,13 +69,13 @@ def main():
     ''' Read *.alfredworkflow files from current directory
     and replace <table> in DOCFILE with new <table>
     '''
-    with open(DOCFILE, 'r') as docfile:
+    with open(DOCFILE, 'r', encoding='utf-8') as docfile:
         olddoc = docfile.read()
 
     before_table = olddoc.split('<table>')[0]
     after_table = olddoc.split('/table>')[-1]
 
-    with open(DOCFILE, 'w') as docfile:
+    with open(DOCFILE, 'w', encoding='utf-8') as docfile:
 
         today = date.today().isoformat()
         docfile.write(before_table)
@@ -84,7 +84,7 @@ def main():
         docfile.write('<table><tr><th><th>Workflow<th>Version<th>contains')
 
         for workflow in sorted(
-                Path('.').glob('*.alfredworkflow'),
+                Path('./alfredworkflows').glob('*.alfredworkflow'),
                 key=ignore_caps
         ):
             info = get_info(workflow)
