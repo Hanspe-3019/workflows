@@ -43,6 +43,11 @@ This is a collection of my public Alfred Workflows.
 <td>1.4.0
 <td>action.browseinalfred : 1<br>action.script : 2<br>input.keyword : 1<br>input.listfilter : 1<br>input.scriptfilter : 2<br>output.callexternaltrigger : 5<br>output.writefile : 1<br>trigger.external : 5<br>trigger.hotkey : 1<br>utility.argument : 3<br>utility.conditional : 2
 <tr>
+<td><img src="./doc/mdhelper.png" width="128">
+<td><strong>mdhelper</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Markdown Helper
+<td>1.0.0
+<td>action.script : 1<br>input.listfilter : 1<br>output.clipboard : 1<br>trigger.universalaction : 1<br>utility.argument : 1
+<tr>
 <td><img src="./doc/TMUX.png" width="128">
 <td><strong>TMUX</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Attach to TMUX<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/TMUX.md">Read more...</a>
 <td>1.0.2
