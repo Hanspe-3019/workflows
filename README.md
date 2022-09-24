@@ -6,7 +6,7 @@ This is a collection of my public Alfred Workflows.
  - Some workflows use python3 scripts, so they require macOS Version 10+ or separately installed python3 (anaconda, homebrew, macports).  
 
 ## The Workflows
-<table><caption><small>Generated at 2022-07-11</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
+<table><caption><small>Generated at 2022-09-24</small></caption><table><tr><th><th>Workflow<th>Version<th>contains
 <tr>
 <td><img src="./doc/alarmclock.png" width="128">
 <td><strong>alarmclock</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;alarmclock using launchd<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/alarmclock.md">Read more...</a>
@@ -27,6 +27,11 @@ This is a collection of my public Alfred Workflows.
 <td><strong>fileref</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Generate/Follow File Reference
 <td>0.0.9
 <td>action.actioninalfred : 1<br>action.script : 2<br>trigger.action : 1<br>trigger.external : 1
+<tr>
+<td><img src="./doc/flugmodus.png" width="128">
+<td><strong>flugmodus</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;
+<td>1.0.0
+<td>action.script : 3<br>input.keyword : 1<br>input.scriptfilter : 1<br>output.notification : 1
 <tr>
 <td><img src="./doc/frontmostdoc.png" width="128">
 <td><strong>frontmostdoc</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;Show frontmost document's file of frontmost application<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="doc/frontmostdoc.md">Read more...</a>
